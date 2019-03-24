@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .container {
+    margin: 0 auto;
+    clear: both;
+  }
+  .tig-picture {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+
+  ul {
+      display: inline-block;
+      float: right;
+  }
+
+  .col-md-6 {
+    overflow: auto;
+    float: right;
+    clear: both;
+    display: inline-block;
+  }
+
+  p {
+    display: block;
+    overflow: auto;
+    float: left;
+    clear: both;
+  }
+
+  .navbar {
+      background: teal;
+  }
+
+  footer {
+    
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: aquamarine;
+    border-top: 8px solid midnightblue;
+    height: 50px;
+  }
+  
+  h1 {
+      color: mediumblue;
+  }
